@@ -1,6 +1,7 @@
 # git_test
 My first GitHub repo!
-Hello Odin!
+
+## Uusi alaotsikko
 
 Uusi kappale.
 
@@ -17,3 +18,5 @@ Lista:
 
 > Tämä on sisennetty lainaus, jonka tulisi jatkua itsestään niin kauan, kuin tekstiä syötetään.
 > Ei toimi automaattinen rivitys tässä tilassa.
+
+Lisätty viimeinen kappale.
